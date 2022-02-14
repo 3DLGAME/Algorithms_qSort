@@ -1,1 +1,1 @@
-# Algorithms
+# qSort algorithm
